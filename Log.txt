@@ -1,0 +1,8 @@
+
+9-4-2013 8:52:53   ********* SESSION STARTED *********
+9-4-2013 8:52:53   Loading saved list
+9-4-2013 8:52:54   Checking OverloadX:   NOT running
+9-4-2013 8:52:57   Starting OverloadX:
+9-4-2013 8:52:57   Can't start OverloadX: Het systeem kan het opgegeven bestand niet vinden
+9-4-2013 8:53:12   Saving List
+9-4-2013 8:53:12   ********* SESSION FINISHED *********
